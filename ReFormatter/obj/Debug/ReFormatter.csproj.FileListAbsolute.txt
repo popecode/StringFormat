@@ -1,0 +1,9 @@
+c:\users\bpope\documents\visual studio 2017\Projects\ReFormatter\ReFormatter\obj\Debug\ReFormatter.csprojResolveAssemblyReference.cache
+c:\users\bpope\documents\visual studio 2017\Projects\ReFormatter\ReFormatter\obj\Debug\ReFormatter.Form1.resources
+c:\users\bpope\documents\visual studio 2017\Projects\ReFormatter\ReFormatter\obj\Debug\ReFormatter.Properties.Resources.resources
+c:\users\bpope\documents\visual studio 2017\Projects\ReFormatter\ReFormatter\obj\Debug\ReFormatter.csproj.GenerateResource.Cache
+c:\users\bpope\documents\visual studio 2017\Projects\ReFormatter\ReFormatter\bin\Debug\ReFormatter.exe.config
+c:\users\bpope\documents\visual studio 2017\Projects\ReFormatter\ReFormatter\bin\Debug\ReFormatter.exe
+c:\users\bpope\documents\visual studio 2017\Projects\ReFormatter\ReFormatter\bin\Debug\ReFormatter.pdb
+c:\users\bpope\documents\visual studio 2017\Projects\ReFormatter\ReFormatter\obj\Debug\ReFormatter.exe
+c:\users\bpope\documents\visual studio 2017\Projects\ReFormatter\ReFormatter\obj\Debug\ReFormatter.pdb
